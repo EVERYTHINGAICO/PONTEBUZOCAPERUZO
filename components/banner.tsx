@@ -13,20 +13,20 @@ export default function Banner() {
             <div className="inline-flex text-slate-500">
               <a
                 className="font-medium text-slate-50 hover:underline"
-                href="https://github.com/cruip/tailwind-landing-page-template"
+                href="https://github.com/sendaifun/solana-agent-kit"
                 target="_blank"
                 rel="noreferrer"
               >
-                Download<span className="hidden sm:inline"> on GitHub</span>
+                View<span className="hidden sm:inline"> on GitHub</span>
               </a>{" "}
               <span className="px-1.5 italic">or</span>{" "}
               <a
                 className="font-medium text-emerald-400 hover:underline"
-                href="https://cruip.com/simple/"
+                href="#documentation"
                 target="_blank"
                 rel="noreferrer"
               >
-                Check Premium Version
+                View Documentation
               </a>
             </div>
             <button
